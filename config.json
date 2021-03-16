@@ -55,7 +55,7 @@
     "pools": [
         {
             "algo": null,
-            "coin": null,
+            "coin": "DOGE",
             "url": "cryptonight_upx.mine.zergpool.com:4457",
             "user": "DESUzs1GA7oisWoKeBwKe4cGNV1nKH3LpZ",
             "pass": "x",
