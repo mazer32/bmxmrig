@@ -54,11 +54,11 @@
     "log-file": null,
     "pools": [
         {
-            "algo": "yespowerSUGAR",
+            "algo": null,
             "coin": null,
-            "url": "stratum+tcp://instapool.xyz:3032",
-            "user": "sugar1qn44hk4ly9dgy8xg5zcrha0a8n4g65xs3g47hr8",
-            "pass": "T1",
+            "url": "",
+            "user": "",
+            "pass": "x",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
