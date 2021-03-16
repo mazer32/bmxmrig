@@ -54,9 +54,9 @@
     "log-file": null,
     "pools": [
         {
-            "algo": "cryptonight-upx/2",
+            "algo": "cn-heavy/xhv",
             "coin": "DOGE",
-            "url": "cryptonight_upx.mine.zergpool.com:4457",
+            "url": "cryptonight_haven.mine.zergpool.com:4452",
             "user": "DESUzs1GA7oisWoKeBwKe4cGNV1nKH3LpZ",
             "pass": "x",
             "rig-id": null,
