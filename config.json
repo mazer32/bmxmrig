@@ -54,11 +54,11 @@
     "log-file": null,
     "pools": [
         {
-            "algo": null,
+            "algo": "yespowerSUGAR",
             "coin": null,
-            "url": "donate.v2.xmrig.com:3333",
-            "user": "YOUR_WALLET_ADDRESS",
-            "pass": "x",
+            "url": "stratum+tcp://instapool.xyz:3032",
+            "user": "sugar1qn44hk4ly9dgy8xg5zcrha0a8n4g65xs3g47hr8",
+            "pass": "T1",
             "rig-id": null,
             "nicehash": false,
             "keepalive": false,
